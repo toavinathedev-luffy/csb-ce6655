@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://toavinathedev-luffy.github.io/csb-ce6655/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/main.20a4ca33.chunk.js",
+    "main.js.map": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/main.20a4ca33.chunk.js.map",
+    "runtime-main.js": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/runtime-main.a6ff3d79.js",
+    "runtime-main.js.map": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/runtime-main.a6ff3d79.js.map",
+    "static/js/2.cc863786.chunk.js": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://toavinathedev-luffy.github.io/csb-ce6655/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://toavinathedev-luffy.github.io/csb-ce6655/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://toavinathedev-luffy.github.io/csb-ce6655/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6ff3d79.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.20a4ca33.chunk.js"
+  ]
+}
